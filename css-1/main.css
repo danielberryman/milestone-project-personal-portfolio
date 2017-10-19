@@ -1,0 +1,200 @@
+body {
+	font-family: 'Crimson Text', serif;
+}
+
+.full-height {
+	height: 600px;
+}
+
+.one-and-half-height {
+	height: 900px;
+}
+
+/*header*/
+
+header {
+	background: #ebebeb;
+	color: #59809b;
+	font-family: 'Crimson Text', serif;
+	margin: 15px;
+}
+
+header img {
+	width: 80%;
+}
+
+header h1 {
+	font-size: 45px;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+header p {
+	font-size: 20px;
+	letter-spacing: 3px;
+	line-height: 35px;
+	margin: 10px 0 15px 0;
+}
+
+header a {
+	border: 1px solid #59809b;
+	color: #59809b;
+	font-size: 30px;
+	padding: 0px 50px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+header a:hover {
+	text-decoration: none;
+	background: #f2f2f2;
+}
+
+main {
+	font-family: 'Crimson Text', serif;
+}
+
+/*work-services*/
+
+#work-services {
+	background-image: url('https://i.imgur.com/WJrAUkF.jpg');
+	background-size: cover;
+	padding-left: 40px;
+	width: 100%;
+	color: #ffffff;
+}
+
+#work-services h2 {
+	font-size: 40px;
+	margin-bottom: 60px;
+	text-transform: uppercase;
+}
+
+#work-services p {
+	font-size: 20px;
+	letter-spacing: 3px;
+	line-height: 35px;
+	margin: 10px 0 15px 0;
+}
+
+#work-services a {
+	text-decoration: none;
+	color: white;
+	line-height: 90px;
+}
+
+#work-services a:hover {
+	color: #59809b;
+}
+
+/*logo*/
+
+#logo {
+	background: #ebebeb;
+	color: #59809b;
+}
+
+#logo img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+#logo p {
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 35px;
+}
+
+#logo a {
+	text-decoration: none;
+	color: #59809b;
+	font-style: italic;
+}
+
+/*business-card*/
+
+#business-card {
+	background: #59809b;
+	color: #ffffff;
+}
+
+#business-card img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+#business-card p {
+	font-size: 18px;
+}
+
+#business-card a {
+	text-decoration: none;
+	color: #ffffff;
+	font-style: italic;
+}
+
+/*design-comp*/
+
+#portfolio-design-comp {
+	background: #252525;
+}
+
+#portfolio-design-comp img {
+	max-width: 100%;
+	max-height: 560px;
+	display: block;
+}
+
+#portfolio-design-comp p {
+	color: white;
+	font-size: 17px;
+	letter-spacing: 2px;
+	line-height: 35px;
+}
+
+#portfolio-design-comp span {
+	font-size: 25px;
+	text-transform: uppercase;
+}
+
+#portfolio-design-comp a {
+	color: white;
+	font-style: italic;
+}
+
+/*footer*/
+
+footer {
+	font-family: 'Crimson Text', serif;
+}
+
+footer img {
+	max-width: 100%;
+	max-height: 560px;
+	display: block;
+}
+
+footer p {
+	color: #59809b;
+	font-size: 17px;
+	letter-spacing: 2px;
+	line-height: 35px;
+}
+
+footer a {
+	color: #59809b;
+	font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
